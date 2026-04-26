@@ -1,16 +1,19 @@
-## Hi there 👋
+# Harlley
 
-<!--
-**HarlleyLabs-Dev/HarlleyLabs-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor web em formação, focado em construir
+coisas reais desde o primeiro dia.
 
-Here are some ideas to get you started:
+Atualmente aprendendo JavaScript, HTML e CSS —
+cada repositório aqui é algo que escrevi e entendo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Stack atual
+
+HTML · CSS · JavaScript
+
+---
+
+## Contato
+
+Aberto a freelas e oportunidades júnior.
